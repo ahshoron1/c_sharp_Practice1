@@ -1,0 +1,5 @@
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem3\obj\Debug\net6.0\practiceProblem3.csproj.AssemblyReference.cache
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem3\obj\Debug\net6.0\practiceProblem3.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem3\obj\Debug\net6.0\practiceProblem3.AssemblyInfoInputs.cache
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem3\obj\Debug\net6.0\practiceProblem3.AssemblyInfo.cs
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem3\obj\Debug\net6.0\practiceProblem3.csproj.CoreCompileInputs.cache

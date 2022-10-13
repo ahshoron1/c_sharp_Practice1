@@ -1,0 +1,15 @@
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\bin\Debug\net6.0\practiceProblem2.exe
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\bin\Debug\net6.0\practiceProblem2.deps.json
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\bin\Debug\net6.0\practiceProblem2.runtimeconfig.json
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\bin\Debug\net6.0\practiceProblem2.dll
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\bin\Debug\net6.0\practiceProblem2.pdb
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.csproj.AssemblyReference.cache
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.AssemblyInfoInputs.cache
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.AssemblyInfo.cs
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.csproj.CoreCompileInputs.cache
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.dll
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\refint\practiceProblem2.dll
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.pdb
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\practiceProblem2.genruntimeconfig.cache
+E:\c_sharp_Practice1\practiceProblem1\practiceProblem2\obj\Debug\net6.0\ref\practiceProblem2.dll
